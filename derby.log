@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 17 11:42:05 UTC 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017a-b446-01cd-000007584f50 
+on database directory C:\Users\Liuth53\Desktop\员工信息管理系统\移动公司 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5b37e0d2 
+Loaded from file:/C:/Users/Liuth53/AppData/Roaming/JetBrains/DataGrip2021.1/jdbc-drivers/Apache%20Derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=JetBrains s.r.o.
+java.runtime.version=11.0.11+9-b1341.57
+user.dir=C:\Users\Liuth53\AppData\Roaming\JetBrains\DataGrip2021.1\projects\Student_Management
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
